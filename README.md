@@ -1,5 +1,5 @@
 # Java-Role-Play Çalıştırma
-##Instances:
+Instances:
 >double mesafe = 100; // yolculuk mesafesi (km)
 >double miktar = 10; // taşınan malzeme miktarı (ton)
 
